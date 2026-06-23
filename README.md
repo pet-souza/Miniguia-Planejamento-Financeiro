@@ -32,6 +32,6 @@ Reserva de Emergência
 Poupança e Investimentos Básicos
 Tomada de Decisão Financeira
 
-# Resultados Esperados
+# Result Esperados
 
 Ao final do projeto, espera-se produzir um material de consulta organizado e acessível, capaz de auxiliar estudantes, pesquisadores e interessados em finanças pessoais na compreensão dos conceitos fundamentais da área. O projeto também busca evidenciar o potencial do NotebookLM como ferramenta de apoio ao estudo, à revisão de conteúdos e à construção de conhecimento de forma estruturada e colaborativa.
