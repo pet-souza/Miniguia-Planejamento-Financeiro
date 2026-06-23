@@ -1,0 +1,4 @@
+# Considerações Finais:
+
+De forma geral, a ferramenta NotebookLM mostrou-se prática, intuitiva e de fácil utilização, não apresentando comandos ou funcionalidades de difícil execução. Para a obtenção das respostas, foram utilizados questionamentos e comandos simples, que poderão ser reutilizados futuramente, uma vez que a inteligência artificial da ferramenta se destaca por fornecer respostas objetivas e fundamentadas exclusivamente nas fontes previamente disponibilizadas pelo usuário.
+Além disso, considerando que esta foi minha primeira experiência com a ferramenta, posso afirmar que fui positivamente surpreendido por sua praticidade e versatilidade. O NotebookLM demonstrou grande potencial para auxiliar na elaboração de textos, pesquisas, apresentações e vídeos, tornando-se um recurso eficiente para a organização, análise e desenvolvimento de conteúdos relacionados aos temas de interesse presentes nas fontes consultadas.
